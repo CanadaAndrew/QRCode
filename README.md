@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Desktop: 
 ![alt text](image.png)
 
--Mobile:
+- Mobile:  
 ![alt text](image-1.png)
 
 ### Links
