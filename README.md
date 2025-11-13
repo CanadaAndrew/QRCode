@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![alt text](image-1.png)
 
 ### Links
-
-- Solution URL: [https://github.com/CanadaAndrew/QRCode]
+- Github URL: [https://github.com/CanadaAndrew/QRCode]
+- Solution URL: [https://canadaandrew.github.io/QRCode/]
 
 ### Built with
 
